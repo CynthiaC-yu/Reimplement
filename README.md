@@ -2,8 +2,9 @@
 This repository documents my efforts to independently reimplement and learn from published works in machine learning, signal processing, and data analysis.
 All reimplementations are conducted strictly for educational purposes, and I take care to cite and credit original authors to ensure compliance with academic integrity standards.
 
-# 📌 Included Reimplementations
-1. Gram-Schmidt Feature Relearning (GFR)
+## 📌 Included Reimplementations
+
+#1. Gram-Schmidt Feature Relearning (GFR)
 This subproject reimplements the Gram-Schmidt-based unsupervised feature extraction process described in the following paper:
 
 Citation:
