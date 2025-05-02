@@ -1,4 +1,4 @@
-# 📘 Project Purpose
+## 📘 Project Purpose
 This repository documents my efforts to independently reimplement and learn from published works in machine learning, signal processing, and data analysis.
 All reimplementations are conducted strictly for educational purposes, and I take care to cite and credit original authors to ensure compliance with academic integrity standards.
 
