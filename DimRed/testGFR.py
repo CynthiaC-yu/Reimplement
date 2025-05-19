@@ -65,7 +65,7 @@ v = np.array([eigenvectors[1], eigenvectors[0]]) # manually adjust the order to 
 # Step 4: Construct function basis: z1 and z1_sqr
 z = np.array([np.matmul(v[0], X), np.matmul(v[1], X)])  # only use the first one
 '''
-First function
+First Function
 '''
 z1 = z[0]
 z1_hat = z1/norm(z1) # f_1 = Z1_hat which is zero value in mean
